@@ -3,7 +3,7 @@
 ## Descrição
 Este projeto consiste no desenvolvimento de um **sistema de gestão de infraestrutura** desenvolvido em **PHP** com ligação a **MySQL**. O sistema permite gerir diferentes elementos da infraestrutura de uma organização, como **salas, equipamentos, técnicos, administradores e intervenções**.
 
-A base de dados foi criada e gerida através do **phpMyAdmin**, e o projeto foi desenvolvido no **Visual Studio Code**, sendo posteriormente publicado num alojamento web.
+A base de dados foi criada e gerida através do **phpMyAdmin**, e o projeto foi desenvolvido e posteriormente publicado num alojamento web(InfinityFree).
 
 ## Funcionalidades
 - **Sistema de Login:** Autenticação de utilizadores para acesso ao sistema.  
