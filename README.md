@@ -1,4 +1,4 @@
-# FP – Sistema de Gestão de Infraestrutura em PHP e MySQL
+# FP03 – Sistema de Gestão de Infraestrutura em PHP e MySQL
 
 ## Descrição
 Este projeto consiste no desenvolvimento de um **sistema de gestão de infraestrutura** desenvolvido em **PHP** com ligação a **MySQL**. O sistema permite gerir diferentes elementos da infraestrutura de uma organização, como **salas, equipamentos, técnicos, administradores e intervenções**.
